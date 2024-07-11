@@ -1,0 +1,21 @@
+.login {
+	width: 320px;
+	padding: 30px;
+	padding-top: 50px;
+}
+
+.login__field {
+	padding: 13px 0px;	
+	position: relative;	
+}
+
+.social-login {	
+	position: absolute;
+    padding-top: 60px;
+	height: 140px;
+	width: 160px;
+	text-align: center;
+	bottom: 0px;
+	right: 0px;
+	color: #fff;
+}
